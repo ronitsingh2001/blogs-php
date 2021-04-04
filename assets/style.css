@@ -1,0 +1,10 @@
+/* .blog-img {
+    height: 20vh;
+    width: 20vh;
+} */
+
+.fixed {
+    position: fixed;
+    top:0;
+    left: 0;
+}
